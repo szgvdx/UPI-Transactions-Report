@@ -8,7 +8,10 @@ The dashboard provides insights into transaction patterns, banking behavior, pay
 ## Dashboard Overview
 
 ## Page 1 — Monthly Overview & Chart Display Options
-<img width="1325" height="616" alt="image" src="https://github.com/user-attachments/assets/78586e46-d0f1-4fb5-88d8-16db80ab7f34" />
+<img width="1284" height="711" alt="image" src="https://github.com/user-attachments/assets/cee00dc8-6298-416f-9f56-0529d1f79c6a" />
+
+<img width="1284" height="707" alt="image" src="https://github.com/user-attachments/assets/9aeb01f6-3164-4557-860b-7a6f16212ce8" />
+
 
 Page 1 provides an interactive visual summary of UPI transaction activity by month.
 The report allows users to switch between different chart views depending on their analysis needs.
