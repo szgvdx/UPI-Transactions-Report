@@ -1,4 +1,4 @@
-# UPI Transactions Analysis Dashboard (Power BI)
+# UPI Transactions Report (Power BI)
 
 This project visualizes digital payment activity using UPI (Unified Payments Interface) transaction data.  
 The dashboard provides insights into transaction patterns, banking behavior, payment methods, customer demographics, and financial trends across multiple currencies.
